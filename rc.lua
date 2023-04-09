@@ -493,7 +493,8 @@ awful.rules.rules = {
   { rule_any = {class = {
     "brave-browser",
     "vscodium" ,
-    "google-chrome" },
+    "google-chrome",
+    "Navigator"},
     {role = "browser"}
  },
   properties = { floating = false }
