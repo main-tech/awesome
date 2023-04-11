@@ -22,7 +22,7 @@ sudo pacman -S  awesome nitrogen picom
 ## Installation
 1. Clone the repository:
 ```sh
-git clone https://github.com/main-tech/awesome.git  ~/.config/
+git clone https://github.com/main-tech/awesome.git  ~/.config/awesome
 ```
 
 2. Logout and select Awesome as the environment while logging in with your user account.
